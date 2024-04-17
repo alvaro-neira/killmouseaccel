@@ -1,3 +1,13 @@
+# killmouseaccel
+
+Forked from https://github.com/docwhat/killmouseaccel
+
+## Instructions:
+
+Edit killmouseaccel.plist and copy it to /Library/LaunchAgents/
+
+Original Readme:
+
 # KillMouseAccel
 
 In OS-X, it has a rather aggressive acceleration curve for mice.
