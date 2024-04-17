@@ -2,9 +2,12 @@
 
 Forked from https://github.com/docwhat/killmouseaccel
 
-## Instructions:
+### Instructions:
 
-Edit killmouseaccel.plist and copy it to /Library/LaunchAgents/
+* Edit killmouseaccel.plist (pay attention to the new lines!).
+* Copy it to /Library/LaunchAgents/ or ~/Library/LaunchAgents/
+
+---
 
 Original Readme:
 
